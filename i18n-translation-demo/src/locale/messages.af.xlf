@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-SA" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="3902961887793684628" datatype="html">
+        <source>Hello</source>
+        <target>Hallo</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/random/random.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8655766095080499010" datatype="html">
+        <source>This is a random page</source>
+        <target>Hierdie is 'n ewekansige bladsy</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/random/random.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2821179408673282599" datatype="html">
+        <source>Home</source>
+        <target>Tuis</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/random/random.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8020359019796179148" datatype="html">
+        <source>This is a web translate demo using Angular Localize and i18n</source>
+        <target>Dit is 'n webvertaaldemo wat Angular Localize en i18n gebruik</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/welcome/welcome.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3492007542396725315" datatype="html">
+        <source>Welcome</source>
+        <target>Welkom</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/welcome/welcome.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="111293471996920280" datatype="html">
+        <source>Random page</source>
+        <target>Ewekansige bladsy</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/welcome/welcome.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
